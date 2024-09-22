@@ -1,7 +1,7 @@
 
-# SummarizeTube
+# Youtube Transcript Summarizer  
 
-**SummarizeTube** is a Streamlit application that extracts and summarizes transcripts from YouTube videos using AI. Users can input video URLs or upload transcript files, generating detailed summaries that capture key points and themes discussed in the content.
+**Youtube Transcript Summarizer** is a Streamlit application that extracts and summarizes transcripts from YouTube videos using AI. Users can input video URLs or upload transcript files, generating detailed summaries that capture key points and themes discussed in the content.
 
 ## Features
 
